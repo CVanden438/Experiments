@@ -1,4 +1,0 @@
-|Date|-----------|Measurement|
-2	         1e+001+-1+-1
-The mean value of the measurements is : 1e+001
-The standard error on the mean is : 1
