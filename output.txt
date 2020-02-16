@@ -1,0 +1,9 @@
+|Date|-----------|Measurement|
+1002	         22.3+-0.987+-3.1
+1002	         19.2+-1.12+-3.1
+1002	         21.1+-0.354+-3.1
+1102	         23.7+-1.25+-2.76
+1102	         18.8+-1.76+-2.76
+1102	         20.5+-0.756+-2.76
+The mean value of the measurements is : 20.9
+The standard error on the mean is : 0.764
